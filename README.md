@@ -28,3 +28,4 @@ Este proyecto tiene como objetivo realizar un análisis de componentes principal
 - `results/`: Contiene los resultados del análisis.
 - `docs/`: Contiene la documentación del proyecto.
 
+## Prueba de cambios
